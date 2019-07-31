@@ -1,0 +1,33 @@
+.corpo {
+    margin: 24px 16px;
+    padding: 24px;
+    background: '#fff';
+    min-height: 280;     
+}
+
+.card {
+    max-width: 300px;
+    max-height: 200px;
+    padding: 20px;   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px; 
+}
+
+.card img {
+    max-width:80px;
+    max-height:80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.info {
+    align-content: center;
+    text-align: center 
+}
+
+.tabela {
+    margin-top: 30px;
+}
